@@ -10,7 +10,12 @@ Today I release a small new version to the new 0.2 series, which includes follow
  - Simplified it to add the disqus comments
  - Added and configuration option for setting a favicon
  - Added the option to use Google Analytics
-            
+
+The following files changed:
+ - index.php
+ - blog.css
+ - config.php
+
 When you updating you installation make sure that your nor overriding your existing configuration. Check on GitHub what are the differences between the two versions.
         </content>
     </post>
