@@ -1,6 +1,30 @@
 <?xml version='1.0' standalone='yes'?>
 <posts>
     <post>
+        <title>Version shedule until version 1.0</title>
+        <pubdate>12 June 2015</pubdate>
+        <content>
+The development on the new Rangitaki blogging engine started a few days ago and the version 0.3 (**not ready for productive use**) is out. But what are the features of the versions 0.3 until 0.9? First of all there all not ready for productive use. They are just there for testing and bug-fixing. You can obtain a copy on [GitHub](https://github.com/mmk2410/Rangitaki/releases).
+
+I made also a table about the different versions:
+
+| Version | | Features                                                                                   |
+|---------|-|:-------------------------------------------------------------------------------------------|
+| 0.3     | | Porting / Re-writing all Features from 0.2, Code highlighting, Only Markdown - no more XML |
+| 0.4     | | New Features: Tags, Author, Multiple Blogs, Online Upload (optional)                       |
+| 0.5     | | Material Design                                                                            |
+| 0.6     | | More configuration options                                                                 |
+| 0.7     | | Alpha release                                                                              |
+| 0.8     | | Beta release                                                                               |
+| 0.9     | | Release Candidate                                                                          |
+| 1.0     | | Stable final release                                                                       |
+
+With version 1.0 I will also provide a documentation.
+
+Stay tuned!
+        </content>
+    </post>
+    <post>
         <title>Version 0.2.2</title>
         <pubdate>13 May 2015</pubdate>
         <content>
