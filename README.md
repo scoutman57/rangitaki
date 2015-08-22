@@ -16,12 +16,6 @@ Rangitaki is a simple to use and easy to configure PHP blogging engine in php wi
  - Disqus integration 
  - simple end user configuration 
 
-## Example(s)
-
- - Official Rangitaki blog [marcel-kapfer.de/rangitaki/blog](http://marcel-kapfer.de/rangitaki/blog/)
-
-Would you like to see your Rangitaki blog here? Write me a message at [marcelmichaelkapfer@yahoo.co.nz](mailto:marcelmichaelkapfer@yahoo.co.nz)
-
 ## Used Libraries
 
  - [Parsedown](http://parsedown.org)
